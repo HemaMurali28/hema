@@ -1,4 +1,7 @@
 # HEMA B M
-cst
-computer science and technology
-dayananda sagar university
+Student|Aspiring computer science engineer
+
+#ABOUT ME
+I am currently a student at dayananada sagar university enrolled in computer science and technology program.
+
+#EDUCATION
